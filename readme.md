@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hdtikqupijzdyymhxljertebje&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" align="right" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hdtikqupijzdyymhxljertebje&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" align="right" />
 </div>
 🔭 I’m currently working on FLUTTER Development<br>👯 I’m looking to collaborate on _____<br>🤝 I’m looking for help with _____<br>🌱 I’m currently learning Core Concepts of Machine Learning<br>💬 Ask me about _____<br>⚡ Fun fact: I use weights as stress buster
 
