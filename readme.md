@@ -72,7 +72,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<a href="https://https://www.linkedin.com/in/chandresh-patel-31b163250//" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/chndrshP" target="_blank">
