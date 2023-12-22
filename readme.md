@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hdtikqupijzdyymhxljertebje&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" align="right" />
 </div>
-🔭 I’m currently working on MERN stack<br> I’m also learning the Core Concepts of Machine Learning<br>💬 Ask me about Data Structures and Algorithms<br>⚡ Fun fact: I use weights as stress buster
+🔭 I’m currently working on MERN stack<br> 🧠I’m also learning the Core Concepts of Machine Learning<br>💬 Ask me about Data Structures and Algorithms<br>⚡ Fun fact: I use weights as stress buster
 <br/>  
 
 ## 🌐 Socials:
