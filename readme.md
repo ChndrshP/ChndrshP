@@ -35,7 +35,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChndrshP&icon=8&color=8)](https://visitcount.itsvg.in)
-[![GitHub Views](https://komarev.com/ghpvc/?username=ChndrshP&color=FAC151)][1]
 
 
 
