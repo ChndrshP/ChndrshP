@@ -20,6 +20,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br>
 
 <center>
+
 📊 GitHub Stats: <br>
 ![](https://github-readme-stats.vercel.app/api?username=ChndrshP&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChndrshP&theme=tokyonight&hide_border=false)<br/>
@@ -32,6 +33,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ChndrshP&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 </center>
 ---
 [![](https://visitcount.itsvg.in/api?id=ChndrshP&icon=8&color=8)](https://visitcount.itsvg.in)
