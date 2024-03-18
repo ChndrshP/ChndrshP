@@ -34,10 +34,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ChndrshP&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-</center>
 ---
 [![](https://visitcount.itsvg.in/api?id=ChndrshP&icon=8&color=8)](https://visitcount.itsvg.in)
 
+</center>
 
 
 
