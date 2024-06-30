@@ -2,6 +2,8 @@
 🔭 I’m currently working on MERN stack<br>💬 Ask me about Data Structures and Algorithms<br>⚡ Fun fact: I use weights as stress buster
 <br/>  
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hdtikqupijzdyymhxljertebje&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chndrsh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chndrsh-patel/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@itschndrsh/streams)
 
@@ -13,19 +15,10 @@
 <center>
 
 📊 GitHub Stats: <br>
-![](https://github-readme-stats.vercel.app/api?username=ChndrshP&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChndrshP&theme=tokyonight&hide_border=false)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChndrshP&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ChndrshP&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChndrshP&theme=dark&hide_border=false)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChndrshP&theme=dark&hide_border=false)<br/>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31hdtikqupijzdyymhxljertebje">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hdtikqupijzdyymhxljertebje&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 ---
 [![](https://visitcount.itsvg.in/api?id=ChndrshP&icon=8&color=8)](https://visitcount.itsvg.in)
 
