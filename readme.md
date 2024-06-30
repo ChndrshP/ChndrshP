@@ -1,9 +1,11 @@
 # 💫 About Me:
-    🔭 I’m currently working on the MERN stack<br>
-    💬 Ask me about Data Structures and Algorithms<br>
-    ⚡ Fun fact: I use weights as a stress buster<br/>
+🔭 I’m currently working on the MERN stack<br>
+💬 Ask me about Data Structures and Algorithms<br>
+⚡ Fun fact: I use weights as a stress buster<br/>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hdtikqupijzdyymhxljertebje&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  <img src="[https://spotify-github-profile.vercel.app/api/view?uid=31hdtikqupijzdyymhxljertebje&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false](https://spotify-github-profile.kittinanx.com/api/view?uid=31hdtikqupijzdyymhxljertebje&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)" align="right" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chndrsh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chndrsh-patel/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@itschndrsh/streams)
