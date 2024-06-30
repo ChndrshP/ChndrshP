@@ -1,6 +1,6 @@
 # 💫 About Me:
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1;">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 10px;">
     🔭 I’m currently working on the MERN stack<br>💬 Ask me about Data Structures and Algorithms<br>⚡ Fun fact: I use weights as a stress buster<br/>
   </div>
   <div style="flex: 1;">
