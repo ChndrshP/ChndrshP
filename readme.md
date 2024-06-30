@@ -1,10 +1,5 @@
-
-
 # 💫 About Me:
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hdtikqupijzdyymhxljertebje&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" align="right" />
-</div>
-🔭 I’m currently working on MERN stack<br> 🧠I’m also learning the Core Concepts of Machine Learning<br>💬 Ask me about Data Structures and Algorithms<br>⚡ Fun fact: I use weights as stress buster
+🔭 I’m currently working on MERN stack<br>💬 Ask me about Data Structures and Algorithms<br>⚡ Fun fact: I use weights as stress buster
 <br/>  
 
 ## 🌐 Socials:
@@ -33,6 +28,12 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ChndrshP&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31hdtikqupijzdyymhxljertebje">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sawhkgnt4rqiktssuy8toe1dk&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChndrshP&icon=8&color=8)](https://visitcount.itsvg.in)
