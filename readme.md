@@ -1,11 +1,10 @@
 # 💫 About Me:
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hdtikqupijzdyymhxljertebje&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" align="right" />
+</div>
 🔭 I’m currently working on the MERN stack<br>
 💬 Ask me about Data Structures and Algorithms<br>
 ⚡ Fun fact: I use weights as a stress buster<br/>
-
-<div align="center">
-  <img src="[https://spotify-github-profile.vercel.app/api/view?uid=31hdtikqupijzdyymhxljertebje&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false](https://spotify-github-profile.kittinanx.com/api/view?uid=31hdtikqupijzdyymhxljertebje&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)" align="right" />
-</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chndrsh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chndrsh-patel/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@itschndrsh/streams)
@@ -17,7 +16,7 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChndrshP&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChndrshP&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChndrshP&theme=dark&hide_border=false" alt="GitHub Streak"/><br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChndrshP&theme=dark&hide_border=false" alt="GitHub Profile Summary"/>
 </div>
