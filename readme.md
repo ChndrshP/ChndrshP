@@ -17,12 +17,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChndrshP&theme=tokyonight&hide_border=false)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChndrshP&theme=tokyonight&hide_border=false)<br/>
 
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ChndrshP&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <a href="https://open.spotify.com/user/31hdtikqupijzdyymhxljertebje">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hdtikqupijzdyymhxljertebje&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hdtikqupijzdyymhxljertebje&count=3)
-
+###
 ---
 [![](https://visitcount.itsvg.in/api?id=ChndrshP&icon=8&color=8)](https://visitcount.itsvg.in)
 
