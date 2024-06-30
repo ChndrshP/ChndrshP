@@ -22,8 +22,9 @@
 </div>
 
 ---
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ChndrshP&label=Profile%20Views&color=12&icon=0&pretty=true" />
-</a>
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=ChndrshP&label=Profile%20Views&color=12&icon=0&pretty=true" />
+  </a>
+</div>
 
