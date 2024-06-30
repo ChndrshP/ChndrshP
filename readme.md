@@ -21,7 +21,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ChndrshP&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hdtikqupijzdyymhxljertebje&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hdtikqupijzdyymhxljertebje&count={count})
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChndrshP&icon=8&color=8)](https://visitcount.itsvg.in)
