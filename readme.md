@@ -29,11 +29,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ChndrshP&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31hdtikqupijzdyymhxljertebje">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hdtikqupijzdyymhxljertebje&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hdtikqupijzdyymhxljertebje&unique={true|1|on|yes})
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChndrshP&icon=8&color=8)](https://visitcount.itsvg.in)
