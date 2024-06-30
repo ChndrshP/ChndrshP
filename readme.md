@@ -22,4 +22,8 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ChndrshP&icon=8&color=8)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="(https://visitcount.itsvg.in/api?id=ChndrshP&icon=8&color=12)" alt="visits"/>
+</div>
+
