@@ -1,6 +1,8 @@
 # 💫 About Me:
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hdtikqupijzdyymhxljertebje&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" align="right" />
+  <a href="https://open.spotify.com/user/31gjaagmfqqi336be6uq7yxxsjqy">
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gjaagmfqqi336be6uq7yxxsjqy)
+  </a>
 </div>
 🔭 I’m currently working on the MERN stack<br>
 💬 Ask me about Data Structures and Algorithms<br>
