@@ -1,7 +1,7 @@
 # 💫 About Me:
 <div align="center">
   <a href="https://open.spotify.com/user/31gjaagmfqqi336be6uq7yxxsjqy">
-    <img src = "https://spotify-recently-played-readme.vercel.app/api?user=31hdtikqupijzdyymhxljertebje&count=1" align="right"/>
+    <img src = "https://spotify-github-profile.kittinanx.com/api/view?uid=31hdtikqupijzdyymhxljertebje&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="right"/>
   </a>
 </div>
 🔭 I’m currently working on the MERN stack<br>
